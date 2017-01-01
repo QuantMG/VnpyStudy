@@ -7,4 +7,7 @@ CTP是综合交易平台，FTD协议是期货交易数据交换协议，这个ti
 \vnpy\vn.ctp\vnctpmd\test\tickAnalysis.py
 
 分析文章请见：
-[]()
+
+[用CTP接口实现期货交易明细分析(1)](https://zhuanlan.zhihu.com/p/24595731)
+
+[用CTP接口实现期货交易明细分析(2)](https://zhuanlan.zhihu.com/p/24671222)
